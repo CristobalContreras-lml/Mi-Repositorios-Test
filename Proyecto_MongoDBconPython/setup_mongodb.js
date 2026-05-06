@@ -2,7 +2,7 @@
 // PROYECTO MONGODB - SISTEMA DE VENTAS E-COMMERCE
 // Creación de BD, Colecciones e Inserción
 // ============================================================
-// Cómo ejecutar: mongosh < 01_setup_mongodb.js
+// Cómo ejecutar: mongosh < setup_mongodb.js
 // ============================================================
 
 // 1. Seleccionar/Crear la base de datos
